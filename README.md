@@ -7,3 +7,4 @@ In-class Exercise and HW for EEB-177
 [This is a video of a zebra](https://www.youtube.com/watch?v=kWxnadQI5Qw)# Lab-2
 # Lab-2
 # Lab-2
+# Lab-2
